@@ -1,5 +1,8 @@
 # Fish-eat-Fish
-## A mini-game created in Python using Pygame that creates a new look for a classic arcade game. 
+## A mini-game created in Python using Pygame that creates a new look for a classic arcade game.
+#### Learned how to use object-oriented programming for game development in Python
+#### Expanded skills in Pygame to create graphical user interfaces
+***
 #### The elements and graphics of the game are created using Procreate and Canva.
 #### Screenshots from the game are shown below. 
 ***
